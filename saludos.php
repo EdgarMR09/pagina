@@ -55,7 +55,7 @@
         ?>
 
         <div class="menu" style="margin-top: 30px;">
-            <a href="index.php">Regresar a Bienvenida</a>
+            <a href="bienvenido.php">Regresar a Bienvenida</a>
         </div>
 
     </div>
